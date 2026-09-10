@@ -1,0 +1,10 @@
+NOTICE for `mcp-builder`
+
+Author: Anthropic, PBC
+Upstream: https://github.com/anthropics/skills
+Upstream path: skills/mcp-builder
+Pinned commit: 41bbe19d1a1a7eaab5e7bb9050a417e5c6cffc8f
+License: Apache-2.0
+What that commit means: the upstream commit whose LICENSE.txt was read to verify this attribution
+
+The full upstream license text is in this folder's LICENSE.txt file.

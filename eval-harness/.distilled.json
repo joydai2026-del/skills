@@ -1,0 +1,7 @@
+{
+  "distill_version": 2,
+  "generated_at": "2026-09-10T14:13:42Z",
+  "leakscan_ok": true,
+  "skill": "eval-harness",
+  "tree_sha256": "b7386ed3cfc6c3cd3fcc40981d53109f462a0b114f1ff97f220f3f4e7de3cd32"
+}

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Codebase Teacher"
+  short_description: "Learn any codebase visually, holistically, and deeply"
+  default_prompt: "Use $codebase-teacher to teach me this codebase from the whole picture to its internals."

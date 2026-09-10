@@ -1,0 +1,11 @@
+NOTICE for `wait-what`
+
+Author: Matt Pocock
+Upstream: https://github.com/mattpocock/skills
+Upstream path: wait-what
+Pinned commit: 3cca18b368ae95cdbdebbff572ccafa662551015
+License: MIT
+What that commit means: the upstream commit at which the MIT license was verified; the adaptation predates this record and its source commit is unregistered
+This folder is ADAPTED from the upstream source, not a verbatim copy.
+
+The full upstream license text is in this folder's LICENSE file.

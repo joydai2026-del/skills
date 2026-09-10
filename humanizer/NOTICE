@@ -1,0 +1,10 @@
+NOTICE for `humanizer`
+
+Author: Siqi Chen
+Upstream: https://github.com/blader/humanizer
+Upstream path: .
+Pinned commit: 9862685f575c65a8247f90369951df1b3416e3d6
+License: MIT
+What that commit means: the upstream default-branch head at which the MIT license was verified; the vendored copy is not diffed against it.
+
+The full upstream license text is in this folder's LICENSE file.
