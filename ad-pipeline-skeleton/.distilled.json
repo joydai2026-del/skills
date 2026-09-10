@@ -1,0 +1,10 @@
+{
+  "distill_version": 1,
+  "generated_at": "2026-09-10T18:04:53Z",
+  "leakscan_ok": true,
+  "replacements_applied": 0,
+  "skill": "ad-pipeline-skeleton",
+  "source_tree_sha256": "feeabec4af29a81864635d013a474082874b14409348db2009df0a0d0e4c1eba",
+  "style_fixes_applied": 0,
+  "tree_sha256": "feeabec4af29a81864635d013a474082874b14409348db2009df0a0d0e4c1eba"
+}

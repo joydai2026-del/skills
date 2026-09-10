@@ -23,6 +23,7 @@ npx skills add joydai2026-del/skills/<name>
 
 | Skill | What it does | Install |
 |---|---|---|
+| [`ad-pipeline-skeleton`](ad-pipeline-skeleton/) | The stage order for running advertising with generative tools, end to end: decide, make, distribute, learn. Four gates, a fillable brief, and an audit for a pipeline that keeps producing rework. | `npx skills add joydai2026-del/skills/ad-pipeline-skeleton` |
 | [`ai-done`](ai-done/) | The done bar for probabilistic AI / LLM / agent features: eval bands, failure triage, tripwires, rehearsed rollback, post-ship loop. | `npx skills add joydai2026-del/skills/ai-done` |
 | [`at-most-once-publishing`](at-most-once-publishing/) | Durable send state machine for anything an agent publishes outward: at-most-once across crashes, timeouts, retries. | `npx skills add joydai2026-del/skills/at-most-once-publishing` |
 | [`audit`](audit/) | Post-change independent audit. Run after major changes to verify everything was created correctly, check contents, validate frontmatter, and report discrepancies. | `npx skills add joydai2026-del/skills/audit` |
